@@ -1,0 +1,7 @@
+{
+  "name": "polymer_with_npm",
+  "short_name": "polymer_with_npm",
+  "description": "A Hello World Application using npm ",
+  "start_url": "/",
+  "display": "standalone"
+}
